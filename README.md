@@ -32,21 +32,17 @@ Java Swingで作った日記アプリです。
 
 ### IDEでの実行
 1. リポジトリをクローン
-git clone https://github.com/username/my-diary-app.git
-
+git clone https://github.com/ka-123-12/diaryapp
 2. IntelliJ IDEA または Eclipse でプロジェクトを開く
 3. `Main.java` を実行
 
 ### コマンドラインでの実行
 1. リポジトリをクローン
-git clone https://github.com/username/my-diary-app.git
-
+git clone https://github.com/ka-123-12/diaryapp
 2. プロジェクトディレクトリへ移動
 cd my-diary-app
-
 3. コンパイル
 javac -d out src/*.java
-
 4. 実行
 java -cp out Main
 
