@@ -49,7 +49,7 @@ java -cp out Main
 ---
 
 ##動作画面・スクリーンショット
-Diary app screen.mp4
+日記アプリ_動作画面.mp4
 
 ## 今後の改善案
 - 日記検索機能の追加
